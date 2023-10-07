@@ -1,5 +1,6 @@
 # toxic-comment-classification
 detecting different types of of toxicity like threats, obscenity, insults, and identity-based hate better than Perspective’s current models.
+kaggle comptition https://www.kaggle.com/competitions/jigsaw-toxic-comment-classification-challenge/overview
 
 # preprocessing dataset
 - removed urls, username, contractions and non-English words.
